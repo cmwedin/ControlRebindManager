@@ -1,2 +1,2 @@
-# package-template
-template for new unity packages
+# Control Rebind Manager
+This is a Unity package to provide ready to use architecture to allow players to rebind the controls of a game at will. It is built on top of and dependant on my free and open source [Command Pattern](https://github.com/cmwedin/CommandPattern) package which must be downloaded separately. 

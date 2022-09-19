@@ -1,11 +1,14 @@
 {
-  "name" : "com.sadsapphicgames.InvalidName",
+  "name" : "com.sadsapphicgames.controlredbindmanager",
   "version" : "0.0.1",
-  "displayName" : "Invalid Name"
-  "description" : "this is a template description that needs to be updated"
+  "displayName" : "Control Rebind Manager",
+  "description" : "This package provides read to use architecture to allow player to rebind a games controls at will",
+  "dependencies": {
+    "com.sadsapphicgames.commandpattern" : "1.0.0"
+  },
   "author" : {
-    "name" : "Chris Wedin"
-    "email" : "cmwedin@gmail.com"
+    "name" : "Chris Wedin",
+    "email" : "cmwedin@gmail.com",
     "url" : "https://github.com/cmwedin"
   }
 }
